@@ -1,25 +1,26 @@
-Current patch - 3.7.1.704
+### Current Patch - Version 3.7.1.704
 
-What is this?
-Basically a "tweaked" version of https://safeexambrowser.org/
+**What is this?**  
+A customized version of [Safe Exam Browser](https://safeexambrowser.org/), enhanced with additional features to bypass certain restrictions.
 
+**Key Features:**
+- **Virtual Machine Bypass**: Seamlessly run on virtual machines without detection.
+- **Multiple Screens Bypass**: Support for multiple screens, bypassing restrictions.
+- **Clipboard Policy Bypass**: Clipboard actions are always allowed, regardless of set policies.
+- **File Integrity Scan Bypass**: Avoids file integrity checks and restrictions.
+- **Bypassed Keyboard Shortcuts**: Use `Ctrl + C`, `Ctrl + V`, and `Ctrl + X` freely, even if normally blocked.
 
-What are its features?
-- Virtual Machine Bypass
-- Multiple Screens Bypass
-- Clipboard policy permanently set to be Allowed (No matter if your teacher set it to Blocked or Private)
-- File Integirty Scans Bypass
-- Ctrl + C,Ctrl + V ,Ctrl + X working no matter what
+**How to Use:**
 
-How to use?
-You'll need admin perms to do this.
-1․ Get the latest download from [#Release](https://github.com/1nteg3r/seb-browser-tweak/releases/tag/Release).
+> **Note:** You will need administrative permissions to proceed.
 
-2․ Copy all the files in the zip or extract them to C:\Program Files\SafeExamBrowser\Application.
+1. Download the latest version from the [Release](https://github.com/1nteg3r/seb-browser-tweak/releases/tag/Release) tab.
+2. Copy all files from the ZIP archive or extract them to `C:\Program Files\SafeExamBrowser\Application`.
 
+**Updates:**  
+I will keep this repository updated with each new release! For custom versions (loggers disabled, university versions, etc.), feel free to DM me on Discord: `tefan7872`.
 
-Will be updating every update! 
-For custom versions (loggers disabled, university versions, etc. dm my discord tefan7872)
+---
 
-DISCLAIMER:
-This project is made for educational purposeses only, and was done just for fun. I am not responsible for any miuse/cheating.
+**DISCLAIMER:**  
+This project is intended for educational purposes only and was created for fun. I am not responsible for any misuse or cheating that may occur.
