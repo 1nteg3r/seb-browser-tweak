@@ -7,7 +7,7 @@ What are its features?
 - Multiple Screens Bypass
 - Clipboard policy permanently set to be Allowed (No matter if your teacher set it to Blocked or Private)
 - File Integirty Scans Bypass
-- Ctrl + C = true,Ctrl + V = true,Ctrl + X working no matter what
+- Ctrl + C,Ctrl + V ,Ctrl + X working no matter what
 
 
 Will be updating every update! 
