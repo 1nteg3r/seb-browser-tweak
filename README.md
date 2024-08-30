@@ -28,7 +28,9 @@ This project is intended for educational purposes only and was created for fun. 
 
 
 ---
-**Like the project? Donatations are appretiated (:**  
+### Donations
+**Like the project? Anything is appretiated (:**  
+
 **BTC:** `17A9FAPJSpruSqUHQMPyYNGXQZVRMK7ot4`  
 **ETH:** `0xacdb2b712efa2fee3cae933256b97bb7cf2ee709`  
 **DOGE:** `DK1NEghjLRo2XUrDG9FPr9KBRAC44kSpjU`
