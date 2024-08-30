@@ -6,7 +6,8 @@ A customized version of [Safe Exam Browser](https://safeexambrowser.org/), enhan
 **Key Features:**
 - **Virtual Machine Bypass**: Seamlessly run on virtual machines without detection.
 - **Multiple Screens Bypass**: Support for multiple screens, bypassing restrictions.
-- **Clipboard Policy Bypass**: Clipboard actions are always allowed, regardless of set policies.(by your teacher or organization)
+- **Clipboard Policy Bypass**: Clipboard actions are always allowed, regardless of set policies.
+(by your teacher or organization)
 - **File Integrity Scan Bypass**: Avoids file integrity checks and restrictions.
 - **Bypassed Keyboard Shortcuts**: Use `Ctrl + C`, `Ctrl + V`, and `Ctrl + X` freely, even if normally blocked.
 
@@ -24,3 +25,10 @@ I will keep this repository updated with each new release! For custom versions (
 
 **DISCLAIMER:**  
 This project is intended for educational purposes only and was created for fun. I am not responsible for any misuse or cheating that may occur.
+
+
+---
+**Like the project? Donatations are appretiated (:**  
+**BTC:** `17A9FAPJSpruSqUHQMPyYNGXQZVRMK7ot4`  
+**ETH:** `0xacdb2b712efa2fee3cae933256b97bb7cf2ee709`  
+**DOGE:** `DK1NEghjLRo2XUrDG9FPr9KBRAC44kSpjU`
