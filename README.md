@@ -6,7 +6,7 @@ A customized version of [Safe Exam Browser](https://safeexambrowser.org/), enhan
 **Key Features:**
 - **Virtual Machine Bypass**: Seamlessly run on virtual machines without detection.
 - **Multiple Screens Bypass**: Support for multiple screens, bypassing restrictions.
-- **Clipboard Policy Bypass**: Clipboard actions are always allowed, regardless of set policies.
+- **Clipboard Policy Bypass**: Clipboard actions are always allowed, regardless of set policies.(by your teacher or organization)
 - **File Integrity Scan Bypass**: Avoids file integrity checks and restrictions.
 - **Bypassed Keyboard Shortcuts**: Use `Ctrl + C`, `Ctrl + V`, and `Ctrl + X` freely, even if normally blocked.
 
